@@ -1,0 +1,16 @@
+{
+    "name": "lynxie/sitemap",
+    "description": "Simple sitemap generation helper",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "Lynxie\\sitemap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LYNX"
+        }
+    ],
+    "require": {}
+}
