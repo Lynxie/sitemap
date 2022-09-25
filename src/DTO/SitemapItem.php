@@ -1,6 +1,6 @@
 <?php
 
-namespace Lynxie\sitemap\DTO;
+namespace Lynxie\Sitemap\DTO;
 
 use DateTimeImmutable;
 

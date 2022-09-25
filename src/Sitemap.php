@@ -1,6 +1,6 @@
 <?php
 
-namespace Lynxie\sitemap;
+namespace Lynxie\Sitemap;
 
 class Sitemap
 {

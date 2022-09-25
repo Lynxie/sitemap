@@ -1,8 +1,8 @@
 <?php
 
-namespace Lynxie\sitemap\DataSource;
+namespace Lynxie\Sitemap\DataSource;
 
-use Lynxie\sitemap\DTO\SitemapItem;
+use Lynxie\Sitemap\DTO\SitemapItem;
 
 class SimpleArrayDataSource
 {
